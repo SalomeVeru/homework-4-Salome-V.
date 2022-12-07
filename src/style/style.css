@@ -12,8 +12,8 @@ html{
     padding: 15px;
 }
 .row{
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-left: 10%;
+    padding-right: 10%;
     display: flex;
     justify-content:space-between;
     align-items: center;
